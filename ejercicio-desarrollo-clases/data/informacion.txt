@@ -1,0 +1,4 @@
+nombre|nota1|nota2|nota3
+David Pardo|10|10|10
+Mario Valarezo|8|8|8
+Josue Rojas|7|7|7
